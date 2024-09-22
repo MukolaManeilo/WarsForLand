@@ -1,0 +1,19 @@
+{
+  "name": "warsforland",
+  "version": "0.1.0",
+  "description": "A 2D web game about developing your country by expanding land, developing your economy and army in a world where you have to compete with other players or bots. The game is under development.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MukolaManeilo/WarsForLand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MukolaManeilo/WarsForLand/issues"
+  },
+  "homepage": "https://github.com/MukolaManeilo/WarsForLand#readme"
+}
